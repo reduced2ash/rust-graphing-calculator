@@ -1,0 +1,15 @@
+# Build outputs
+/target
+
+# Editor and OS artifacts
+.DS_Store
+**/.DS_Store
+.idea/
+.vscode/
+
+
+# Rust/Cargo backups
+**/*.rs.bk
+
+# Private prompts
+agents.md
